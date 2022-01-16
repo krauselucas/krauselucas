@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Krause, criador de conteúdo de programação e tecnologia aka Projeto Dev!
+## Hey, I am Lucas Krause, content creator and software development student. Get to know me at #ProjetoDev on youtube!
 <div align="center">
   <a href="https://github.com/krauselucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krauselucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
