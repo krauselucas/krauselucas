@@ -1,4 +1,4 @@
-## Hey, I am Lucas Krause, content creator and development enthusiast. Get to know me at #ProjetoDev on youtube!
+## Hey, I am Lucas Krause, content creator and development enthusiast. Get to know me at #ProjetoDev on Youtube!
 
 <div>
   <a href="https://github.com/krauselucas">
