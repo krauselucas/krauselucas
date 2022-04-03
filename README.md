@@ -1,4 +1,4 @@
-## Hey, I am Lucas Krause, content creator and development enthusiast. Get to know me at #ProjetoDev on Youtube!
+## Hey, I am Lucas Krause and my goal here is to show my learnings in web development and data analysis!
 
 <div>
   <a href="https://github.com/krauselucas">
@@ -19,10 +19,9 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCacYC-1RTdcNYGptu538wBg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dev.projeto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:projetodev.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-krause-476341185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucaskrause.sr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:lucas.rksr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucaskrause/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    ![Snake animation](https://github.com/krauselucas/krauselucas/blob/output/github-contribution-grid-snake.svg)
  
