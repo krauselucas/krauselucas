@@ -1,4 +1,4 @@
-## Hey, I am Lucas Krause and my goal here is to show my learnings in web development and data analysis!
+## Hey, I am Lucas Krause and my goal here is to show my learnings in web development!
 
 <div>
   <a href="https://github.com/krauselucas">
